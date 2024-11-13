@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your Page Title
+title: DSC180A-Methodology-5
 ---
 
 # William Kam
